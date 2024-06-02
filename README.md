@@ -1,2 +1,2 @@
-# ML-4-pipe-laying-cost-prediction
+# The results in the jupyter notebooks  can be replicated by reading the data from the 'Data' folder
 
